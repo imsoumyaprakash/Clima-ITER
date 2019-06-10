@@ -13,10 +13,16 @@ An android weather app using [OpenWeatherMap](https://openweathermap.org/) publi
 
 
 ### Screenshots
+
+<img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/2019_06_11_00_51_35.gif" width="250" height="400">
+<img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/2019_06_11_00_53_19.gif" width="250" height="400">
+<img align="left"  src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/2019_06_11_00_55_08.gif" width="250" height="400">
+<img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/2019_06_11_00_56_47.gif" width="250" height="400">
+
 <img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003913_Clima.png" width="250" height="400">
 <img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003926_Clima.png" width="250" height="400">
 <img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003943_Clima.png" width="250" height="400">
 <img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-004050_Clima.png" width="250" height="400">
 
-<img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/2019_06_11_00_51_35.gif" width="250" height="400">
+
 
