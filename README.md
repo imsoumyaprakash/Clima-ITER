@@ -14,7 +14,7 @@ An android weather app using [OpenWeatherMap](https://openweathermap.org/) publi
 
 ### Screenshots
 <img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003913_Clima.png" width="250" height="400">
-<img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003926_Clima.png" width="250" height="400">
+<img align="left" src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003926_Clima.png" width="250" height="400">
 <img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-003943_Clima.png" width="250" height="400">
 <img src="https://github.com/imsoumyaprakash/Clima-ITER/blob/master/Screenshot_20190611-004050_Clima.png" width="250" height="400">
 
